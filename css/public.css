@@ -1,0 +1,17 @@
+body{
+	margin:0; 
+	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #333;
+    background-color: #fff;
+}
+ul,li,a{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	border: 0;
+    color: #333;
+	list-style-type: none;
+	text-decoration: none;
+}
